@@ -5,3 +5,4 @@ dobro = numero * 2
 triplo = numero * 3
 raizq = numero** 2
 print(f"Dobro = {dobro}, triplo = {triplo}, raiz quadrada = {raizq}")
+
