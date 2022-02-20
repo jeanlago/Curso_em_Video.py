@@ -1,5 +1,4 @@
-from curses.ascii import isspace
-
+'''descobrir características de algo'''
 
 A = input("digite algo: ")
 print("O Tipo primitivo dessse valor é ", type(A))

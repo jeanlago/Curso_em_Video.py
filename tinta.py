@@ -1,3 +1,5 @@
+'''calcular uso de tinta em uma parede retangular.'''
+
 h = float(input("Qual altura? "))
 l = float(input("Qual largura? "))
 area = h * l
